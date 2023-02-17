@@ -1,0 +1,129 @@
+*{
+    
+}
+.Inicio_1{
+    margin: 1px 300px 1px;
+    padding: 1px 1px 400px 0px;
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=3275&resolucion=2937x2056);
+}
+
+.Titulo_1{
+    margin: 60px 40px 0px 40px;
+    padding: 3px;
+    color: black;
+    border-top: 3px solid black;
+}
+
+.Titulo_1 h1{
+    margin: 1px;
+    padding: 1px;
+    font-size: 65px;
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.Titulo_2{
+    margin: 3px 40px 0px 40px;
+    padding: 1px;   
+}
+.Titulo_2 h2{
+    margin: 1px;
+    padding: 1px;
+    font-size: 33px;
+    text-align: center; 
+    border-top: 3px solid black; 
+    border-bottom: 3px solid black;
+}
+.Parrafo_1{
+    margin: 20px 420px 3px 40px;
+    padding: 200px;
+    color: black;
+    
+}
+
+.Parrafo_1 p{
+    margin: -190px;
+    padding: 1px;
+    font-size: 20px;
+}
+.imagen_1{
+    margin: 20px 400px 50px 20px;
+    position: absolute;
+    top: 280px;
+    left: 820px;
+
+}
+.imagen_1 img{
+    position: absolute;
+    width: 380px;
+    height: 300px;
+    top: -50px;
+    right: -340px;
+}
+
+.Parrafo_2{
+    border: double;
+    margin: 10px 400px 1px 40px;
+    padding: 1px 1px 1px 1px;
+}
+.Parrafo_2 img{
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 670px;
+    right: 730px;
+}
+.Parrafo_2 h2{
+    margin: 20px 200PX 3PX 20PX;
+    font-size: 30px;
+}
+.Parrafo_2 p{
+    margin: 1px 1px 1px 1px;
+    padding: 20px;
+    font-size: 20px;
+}
+.Titulo_3{
+    position: absolute;
+    left: 790px;
+    padding: 1px;
+    top: 600px;
+}
+
+.Titulo_3 h3{
+    padding: 1px;
+    margin: 1px;
+    font-size: 24px;
+}
+
+.Parrafo_3{
+    position: absolute;
+    width: 358px;
+    height: 660px;
+    left: 820px;
+    top: 660px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.Parrafo_3 img{
+    width: 360px;
+    height: 180px;
+}
+.Parrafo_3 p{
+    margin: 1px 2px 0px 5px;
+    font-size: 20px;
+}
+.Titulo_4{
+    margin: 1px 400px 4px 34px;
+    font-size: 28px;
+}
+.Parrafo_4{
+    position: absolute;
+    width: 310px;
+    height: 300px;
+    right: 866px;
+    top: 1020px;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+}
+
